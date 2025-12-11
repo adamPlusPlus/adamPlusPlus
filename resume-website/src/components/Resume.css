@@ -1,19 +1,19 @@
 .resume {
-  color: #333;
+  color: #e2e8f0;
 }
 
 .resume-header {
   text-align: center;
   margin-bottom: 30px;
   padding-bottom: 20px;
-  border-bottom: 2px solid #2563eb;
+  border-bottom: 2px solid #60a5fa;
 }
 
 .resume-header h1 {
   font-size: 32px;
   font-weight: 700;
   margin-bottom: 15px;
-  color: #1e293b;
+  color: #f1f5f9;
 }
 
 .contact-info {
@@ -22,11 +22,11 @@
   justify-content: center;
   gap: 15px;
   font-size: 14px;
-  color: #64748b;
+  color: #94a3b8;
 }
 
 .contact-info a {
-  color: #2563eb;
+  color: #60a5fa;
   text-decoration: none;
 }
 
@@ -42,10 +42,10 @@
 .resume-section h2 {
   font-size: 22px;
   font-weight: 700;
-  color: #1e293b;
+  color: #f1f5f9;
   margin-bottom: 15px;
   padding-bottom: 8px;
-  border-bottom: 1px solid #e2e8f0;
+  border-bottom: 1px solid #475569;
 }
 
 .resume-section p {
@@ -75,7 +75,7 @@
 .experience-header h3 {
   font-size: 18px;
   font-weight: 600;
-  color: #1e293b;
+  color: #f1f5f9;
   margin-bottom: 5px;
 }
 
@@ -84,7 +84,7 @@
   flex-wrap: wrap;
   gap: 10px;
   font-size: 14px;
-  color: #64748b;
+  color: #94a3b8;
   font-style: italic;
 }
 
@@ -105,7 +105,7 @@
 .education-item h3 {
   font-size: 18px;
   font-weight: 600;
-  color: #1e293b;
+  color: #f1f5f9;
   margin-bottom: 5px;
 }
 
@@ -114,7 +114,7 @@
   flex-wrap: wrap;
   gap: 10px;
   font-size: 14px;
-  color: #64748b;
+  color: #94a3b8;
 }
 
 .achievements-list {
@@ -132,7 +132,7 @@
   content: "•";
   position: absolute;
   left: 0;
-  color: #2563eb;
+  color: #60a5fa;
   font-weight: bold;
 }
 
@@ -144,7 +144,7 @@
 .project-item h3 {
   font-size: 18px;
   font-weight: 600;
-  color: #1e293b;
+  color: #f1f5f9;
   margin-bottom: 8px;
 }
 
@@ -155,7 +155,7 @@
 
 .project-tech {
   font-size: 14px;
-  color: #64748b;
+  color: #94a3b8;
   margin-bottom: 8px;
 }
 
@@ -166,7 +166,7 @@
 }
 
 .project-links a {
-  color: #2563eb;
+  color: #60a5fa;
   text-decoration: none;
 }
 
