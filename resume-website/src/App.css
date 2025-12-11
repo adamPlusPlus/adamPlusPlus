@@ -1,0 +1,41 @@
+.app {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.controls {
+  position: sticky;
+  top: 20px;
+  z-index: 100;
+  display: flex;
+  justify-content: flex-end;
+  margin-bottom: 20px;
+}
+
+.resume-container {
+  background: white;
+  padding: 40px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+@media print {
+  .app {
+    padding: 0;
+  }
+  
+  .resume-container {
+    box-shadow: none;
+    padding: 0;
+    max-width: 100%;
+  }
+}
+
+@media (max-width: 768px) {
+  .resume-container {
+    padding: 20px;
+  }
+}
+
