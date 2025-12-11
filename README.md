@@ -9,6 +9,7 @@ Technical Project Manager and Co-Founder with 8+ years of experience building an
 - Seeking remote opportunities in Technical Project Management, Python Development, or Computer Vision Engineering
 - Track record: 50% efficiency improvements, 20% budget surpluses, 100% on-time delivery
 - Managed remote and offshore teams across multiple time zones
+- **[View Full Resume](https://adam-plus-plus.vercel.app)** - Interactive resume website with downloadable PDF
 
 ## Tech Stack
 
@@ -46,6 +47,7 @@ Reduces token costs for git add, commit, and push operations when working with L
 
 ## Contact
 
+- [Resume Website](https://adam-plus-plus.vercel.app) | [Download PDF](https://adam-plus-plus.vercel.app) (click Download button)
 - [LinkedIn](https://www.linkedin.com/in/adam-bacchus-950a9b210)
 - Email: bacchus.adam@gmail.com
 - GitHub: [@adamPlusPlus](https://github.com/adamPlusPlus)
