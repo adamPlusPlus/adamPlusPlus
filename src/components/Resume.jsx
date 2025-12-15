@@ -25,8 +25,7 @@ function Resume() {
           Proven track record of delivering 12 prototypes and 16 applications, improving team efficiency by 50%, and managing 
           budgets with 20% surplus. Combines hands-on technical skills (Python, C#, computer vision, modern backend development) 
           with business acumen (fundraising, company acquisition, strategic planning). Experienced in remote team management, 
-          offshore coordination, and full product lifecycle from ideation to launch. Recently expanded technical expertise with 
-          modern Python stack, DevOps practices, and production ML deployment.
+          offshore coordination, and full product lifecycle from ideation to launch.
         </p>
       </section>
 
@@ -162,53 +161,6 @@ function Resume() {
       <section className="resume-section">
         <h2>Projects</h2>
         
-        <div className="project-item">
-          <h3>Task Management REST API</h3>
-          <p>
-            Production-ready REST API built with FastAPI and PostgreSQL, featuring JWT authentication, comprehensive CRUD operations, 
-            and Docker containerization. Implemented with 85%+ test coverage using pytest, following RESTful API design best practices 
-            with auto-generated documentation. Deployed to cloud platform with CI/CD pipeline.
-          </p>
-          <div className="project-tech">
-            <strong>Technologies:</strong> FastAPI, PostgreSQL, SQLAlchemy, Docker, pytest, JWT Authentication
-          </div>
-          <div className="project-links">
-            <a href="https://github.com/adamPlusPlus/task-management-api" target="_blank" rel="noopener noreferrer">GitHub</a>
-            <a href="https://task-api-production.railway.app/docs" target="_blank" rel="noopener noreferrer">Live Demo</a>
-          </div>
-        </div>
-
-        <div className="project-item">
-          <h3>DevOps Infrastructure & CI/CD Pipeline</h3>
-          <p>
-            Extended Task Management API with comprehensive DevOps tooling including Kubernetes deployment, GitHub Actions CI/CD pipeline, 
-            and Infrastructure as Code using Terraform. Configured multi-stage Docker builds, automated testing and deployment, and deployed 
-            to AWS ECS with monitoring and health checks.
-          </p>
-          <div className="project-tech">
-            <strong>Technologies:</strong> Docker, Kubernetes, GitHub Actions, Terraform, AWS ECS, CI/CD
-          </div>
-          <div className="project-links">
-            <a href="https://github.com/adamPlusPlus/task-management-api" target="_blank" rel="noopener noreferrer">GitHub</a>
-          </div>
-        </div>
-
-        <div className="project-item">
-          <h3>Modern Computer Vision Defect Detection System</h3>
-          <p>
-            Production ML system for automated defect detection in manufacturing, built with PyTorch and deployed as scalable FastAPI service. 
-            Achieved 90%+ accuracy with custom CNN architecture, implemented batch prediction capabilities, and deployed as containerized service 
-            with model versioning. Demonstrates modern MLOps practices including training pipeline, model evaluation, and production inference API.
-          </p>
-          <div className="project-tech">
-            <strong>Technologies:</strong> PyTorch, FastAPI, Computer Vision, Docker, ML Deployment
-          </div>
-          <div className="project-links">
-            <a href="https://github.com/adamPlusPlus/defect-detection-cv" target="_blank" rel="noopener noreferrer">GitHub</a>
-            <a href="https://defect-detection-api.railway.app/docs" target="_blank" rel="noopener noreferrer">Live Demo</a>
-          </div>
-        </div>
-
         <div className="project-item">
           <h3>FeatSpec</h3>
           <p>
