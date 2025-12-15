@@ -212,6 +212,18 @@ function Resume() {
             <strong>Technologies:</strong> C#, Custom Development, Kanban Workflow
           </div>
         </div>
+
+        <div className="project-item">
+          <h3>Technical Prototypes & Product Demos</h3>
+          <p>
+            Managed development of 20+ technical prototypes demonstrating rapid iteration, performance optimization, and cross-platform deployment. 
+            Projects showcase full-stack capability across Unity, Unreal Engine, and Python, with deployments spanning mobile, PC, and web platforms. 
+            Focus areas include real-time systems, performance optimization, cross-platform development, and agile prototyping methodologies.
+          </p>
+          <div className="project-tech">
+            <strong>Technologies:</strong> Unity, Unreal Engine, C#, Python, Mobile Development, Cross-Platform Deployment
+          </div>
+        </div>
       </section>
     </div>
   )
