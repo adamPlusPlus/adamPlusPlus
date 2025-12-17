@@ -6,9 +6,10 @@ Technical Project Manager and Co-Founder with 8+ years of experience building an
 
 - Currently working as an Independent Software Development Consultant
 - Co-founded Shuffleware (acquired by Avabyte) and Avabyte
-- Seeking remote opportunities in Technical Project Management, Python Development, or Computer Vision Engineering
+- Seeking Technical Project Manager opportunities in Houston, TX (open to hybrid or on-site)
 - Track record: 50% efficiency improvements, 20% budget surpluses, 100% on-time delivery
 - Managed remote and offshore teams across multiple time zones
+- 8+ years of experience leading software development teams
 - **[View Full Resume](https://adam-plus-plus.vercel.app)** - Interactive resume website with downloadable PDF
 
 ## Tech Stack
@@ -36,6 +37,11 @@ Reduces token costs for git add, commit, and push operations when working with L
 
 **Technologies:** Python
 
+### Technical Prototypes & Product Demos
+Managed development of 20+ technical prototypes demonstrating rapid iteration, performance optimization, and cross-platform deployment. Projects showcase full-stack capability across Unity, Unreal Engine, and Python, with deployments spanning mobile, PC, and web platforms.
+
+**Technologies:** Unity, Unreal Engine, C#, Python, Mobile Development, Cross-Platform Deployment
+
 ## Key Achievements
 
 - 50% improvement in programming delivery time and bug fix rates
@@ -58,5 +64,5 @@ Reduces token costs for git add, commit, and push operations when working with L
 
 ---
 
-Open to remote opportunities in Technical Project Management, Python Development, DevOps, or Computer Vision Engineering
+Seeking Technical Project Manager opportunities in Houston, TX | Open to hybrid or on-site roles
 
