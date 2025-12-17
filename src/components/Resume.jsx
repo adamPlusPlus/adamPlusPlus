@@ -21,11 +21,11 @@ function Resume() {
       <section className="resume-section">
         <h2>Professional Summary</h2>
         <p>
-          Technical Project Manager & Co-Founder with 8+ years of experience building and leading software development teams. 
-          Proven track record of delivering 12 prototypes and 16 applications, improving team efficiency by 50%, and managing 
-          budgets with 20% surplus. Combines hands-on technical skills (Python, C#, computer vision, modern backend development) 
-          with business acumen (fundraising, company acquisition, strategic planning). Experienced in remote team management, 
-          offshore coordination, and full product lifecycle from ideation to launch.
+          Technical Project Manager with 8+ years of experience leading software development teams and delivering complex technical projects. 
+          Proven track record of improving team efficiency by 50%, managing budgets with 20% surplus, and delivering 12 prototypes and 16 applications. 
+          Combines hands-on technical expertise (Python, C#, computer vision) with strong project management skills (Agile, Scrum, stakeholder management). 
+          Experienced in remote team management, offshore coordination, and full product lifecycle from ideation to launch. Currently consulting while 
+          seeking full-time Technical Project Manager opportunities in Houston.
         </p>
       </section>
 
@@ -33,28 +33,25 @@ function Resume() {
         <h2>Skills</h2>
         <div className="skills-grid">
           <div>
+            <strong>Project Management:</strong> Agile, Scrum, Budgeting, Resource Allocation, Risk Management, KPI Alignment, 
+            Stakeholder Communication, NPD Process
+          </div>
+          <div>
             <strong>Programming Languages:</strong> Python, C#, C++, Embedded C/C++
           </div>
           <div>
             <strong>Backend Development:</strong> FastAPI, Django, REST API Design, PostgreSQL, SQLAlchemy
           </div>
           <div>
+            <strong>Image Processing & Computer Vision:</strong> SIFT algorithm, Image Segmentation, Autoencoders, Edge Detection, 
+            OpenCV, PyTorch
+          </div>
+          <div>
             <strong>DevOps & Cloud:</strong> Docker, Kubernetes, CI/CD (GitHub Actions), AWS, Infrastructure as Code (Terraform)
           </div>
           <div>
-            <strong>Machine Learning:</strong> PyTorch, Computer Vision, Model Training & Deployment, OpenCV
-          </div>
-          <div>
-            <strong>Project Management:</strong> Agile, Scrum, Budgeting, Resource Allocation, Risk Management, KPI Alignment, 
-            Stakeholder Communication, NPD Process
-          </div>
-          <div>
-            <strong>Image Processing & Computer Vision:</strong> SIFT algorithm, Image Segmentation, Autoencoders, Edge Detection, 
-            OpenCV, PyTorch, YOLO
-          </div>
-          <div>
             <strong>Tools & Technologies:</strong> Git, Unity, Unreal Engine, Trello, Slack, Linux CLI (RHEL certified), Docker, 
-            Kubernetes, PostgreSQL, REST APIs, pytest, Arduino, Raspberry Pi
+            PostgreSQL, REST APIs, pytest
           </div>
           <div>
             <strong>Other:</strong> Game Design, User Experience (UX), SQL, Data Analytics, Strategic Planning, Remote Team Management
@@ -162,6 +159,53 @@ function Resume() {
         <h2>Projects</h2>
         
         <div className="project-item">
+          <h3>Task Management REST API</h3>
+          <p>
+            Production-ready REST API built with FastAPI and PostgreSQL, featuring JWT authentication, comprehensive CRUD operations, 
+            and Docker containerization. Implemented with 85%+ test coverage using pytest, following RESTful API design best practices 
+            with auto-generated documentation. Deployed to cloud platform with CI/CD pipeline.
+          </p>
+          <div className="project-tech">
+            <strong>Technologies:</strong> FastAPI, PostgreSQL, SQLAlchemy, Docker, pytest, JWT Authentication
+          </div>
+          <div className="project-links">
+            <a href="https://github.com/adamPlusPlus/task-management-api" target="_blank" rel="noopener noreferrer">GitHub</a>
+            <a href="https://task-api-production.railway.app/docs" target="_blank" rel="noopener noreferrer">Live Demo</a>
+          </div>
+        </div>
+
+        <div className="project-item">
+          <h3>DevOps Infrastructure & CI/CD Pipeline</h3>
+          <p>
+            Extended Task Management API with comprehensive DevOps tooling including Kubernetes deployment, GitHub Actions CI/CD pipeline, 
+            and Infrastructure as Code using Terraform. Configured multi-stage Docker builds, automated testing and deployment, and deployed 
+            to AWS ECS with monitoring and health checks.
+          </p>
+          <div className="project-tech">
+            <strong>Technologies:</strong> Docker, Kubernetes, GitHub Actions, Terraform, AWS ECS, CI/CD
+          </div>
+          <div className="project-links">
+            <a href="https://github.com/adamPlusPlus/task-management-api" target="_blank" rel="noopener noreferrer">GitHub</a>
+          </div>
+        </div>
+
+        <div className="project-item">
+          <h3>Modern Computer Vision Defect Detection System</h3>
+          <p>
+            Production ML system for automated defect detection in manufacturing, built with PyTorch and deployed as scalable FastAPI service. 
+            Achieved 90%+ accuracy with custom CNN architecture, implemented batch prediction capabilities, and deployed as containerized service 
+            with model versioning. Demonstrates modern MLOps practices including training pipeline, model evaluation, and production inference API.
+          </p>
+          <div className="project-tech">
+            <strong>Technologies:</strong> PyTorch, FastAPI, Computer Vision, Docker, ML Deployment
+          </div>
+          <div className="project-links">
+            <a href="https://github.com/adamPlusPlus/defect-detection-cv" target="_blank" rel="noopener noreferrer">GitHub</a>
+            <a href="https://defect-detection-api.railway.app/docs" target="_blank" rel="noopener noreferrer">Live Demo</a>
+          </div>
+        </div>
+
+        <div className="project-item">
           <h3>FeatSpec</h3>
           <p>
             Web-based tool for creating structured feature specifications through prompt-driven workflows. Supports project management, 
@@ -210,18 +254,6 @@ function Resume() {
           </p>
           <div className="project-tech">
             <strong>Technologies:</strong> C#, Custom Development, Kanban Workflow
-          </div>
-        </div>
-
-        <div className="project-item">
-          <h3>Technical Prototypes & Product Demos</h3>
-          <p>
-            Managed development of 20+ technical prototypes demonstrating rapid iteration, performance optimization, and cross-platform deployment. 
-            Projects showcase full-stack capability across Unity, Unreal Engine, and Python, with deployments spanning mobile, PC, and web platforms. 
-            Focus areas include real-time systems, performance optimization, cross-platform development, and agile prototyping methodologies.
-          </p>
-          <div className="project-tech">
-            <strong>Technologies:</strong> Unity, Unreal Engine, C#, Python, Mobile Development, Cross-Platform Deployment
           </div>
         </div>
       </section>
