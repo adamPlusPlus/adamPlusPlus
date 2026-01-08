@@ -1,15 +1,15 @@
 # Adam Bacchus
 
-Technical Project Manager and Co-Founder with 8+ years of experience building and leading software development teams. Hands-on technical background combined with business experience, including leading a company to successful acquisition.
+Program Manager with 6+ years of experience leading complex, multidisciplinary technical projects from planning through delivery. Proven expertise in managing full project lifecycles, organizing cross-functional teams, and delivering mission-critical solutions while maintaining budget discipline and quality standards.
 
 ## About
 
-- Currently working as an Independent Software Development Consultant
-- Co-founded Shuffleware (acquired by Avabyte) and Avabyte
-- Seeking Technical Project Manager opportunities in Houston, TX (open to hybrid or on-site)
-- Track record: 50% efficiency improvements, 20% budget surpluses, 100% on-time delivery
+- Currently working as Software Development Project Manager at Ser
+- Led Shuffleware to successful acquisition by Avabyte
+- Seeking Program Manager and Project Manager opportunities in Houston, TX (open to hybrid or on-site)
+- Track record: Improved team efficiency through process optimization, maintained budget discipline across projects
 - Managed remote and offshore teams across multiple time zones
-- 8+ years of experience leading software development teams
+- 6+ years of experience leading software development teams and managing complex technical projects
 - **[View Full Resume](https://adam-plus-plus.vercel.app)** - Interactive resume website with downloadable PDF
 
 ## Tech Stack
@@ -18,7 +18,7 @@ Technical Project Manager and Co-Founder with 8+ years of experience building an
 **Backend:** FastAPI, Django, PostgreSQL, REST APIs  
 **DevOps:** Docker, Kubernetes, CI/CD, AWS  
 **Machine Learning & Computer Vision:** PyTorch, OpenCV, Computer Vision, Image Processing  
-**Tools:** Git, Unity, Unreal Engine, Linux (RHEL certified)
+**Tools:** Git, Unity, Unreal Engine, Linux
 
 ## Featured Projects
 
@@ -44,11 +44,11 @@ Managed development of 20+ technical prototypes demonstrating rapid iteration, p
 
 ## Key Achievements
 
-- 50% improvement in programming delivery time and bug fix rates
-- 20% improvement in team efficiency through process optimization
-- 20% budget surplus managed across multiple projects
+- Improved team efficiency through process optimization and effective resource allocation
+- Maintained budget discipline across multiple complex engineering projects
 - Led company to successful acquisition (Shuffleware → Avabyte)
-- Delivered 12 prototypes and 16 applications
+- Managed full lifecycle delivery of multiple software development projects
+- Coordinated multidisciplinary teams to meet critical project milestones
 - Managed teams of up to 10 people across multiple disciplines
 
 ## Contact
@@ -64,5 +64,5 @@ Managed development of 20+ technical prototypes demonstrating rapid iteration, p
 
 ---
 
-Seeking Technical Project Manager opportunities in Houston, TX | Open to hybrid or on-site roles
+Seeking Program Manager and Project Manager opportunities in Houston, TX | Open to hybrid or on-site roles
 
